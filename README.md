@@ -22,9 +22,7 @@ Welcome to my Python repository! This is a curated collection of my early Python
 * **Description:** A text-based choice-driven adventure game where players navigate a mysterious jungle filled with hidden weapons, risky paths (like a dark wolf-infested cave), and a final showdown with a terrifying creature. Uses Python's `random` module for weapon assignment and custom functions for path branching.
 
 ---
+## 📸 Historical Timeline Proof
+Here is a screenshot from the local machine showing the original creation dates of these files back in late 2022 and early 2023, before the recent UI updates:
 
-## 🚀 Future Roadmap
-Now that my foundational high school exams (Thanaweya Amma) are wrapped up, I am actively building my portfolio. My next steps include:
-* Deepening my advanced Python concepts.
-* Pursuing professional certified credentials.
-* Building specialized projects to transition into my long-term goal: **Cybersecurity**.
+![Project History](./proof2.png)
